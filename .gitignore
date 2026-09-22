@@ -1,0 +1,14 @@
+# Build output
+target/
+
+# IDE
+.idea/
+.classpath
+.project
+.settings/
+.factorypath
+*.iml
+
+# Logs
+*.log
+logs/
